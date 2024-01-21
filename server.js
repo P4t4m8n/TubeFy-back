@@ -21,7 +21,6 @@ app.use(express.static('public'))
 if (process.env.NODE_ENV === 'production') {
 
     app.use(express.static(path.resolve(__dirname, 'public')))
-    console.log('__dirname: ', __dirname)
 } else {
     const corsOptions = {
         origin: [
@@ -50,6 +49,17 @@ app.use('/api/station', stationRoutes)
 import { songRoutes } from './api/songs/song.routes.js'
 app.use('/api/song', songRoutes)
 
+import { extractName } from './api/natural/natural.controller.js'
+app.post('/api/parse-title', (req, res) => {
+    const { title } = req.body;
+  
+    try {
+        const { artist, song } = extractName(title);
+        res.json({ artist, song });
+    } catch (error) {
+        res.status(500).send("Error parsing title");
+    }
+});
 
 app.get('/**', (req, res) => {
     res.sendFile(path.resolve('public/index.html'))
