@@ -1,26 +1,22 @@
 import express from 'express'
 import cors from 'cors'
-import path, { dirname } from 'path'
-import { fileURLToPath } from 'url'
+import path from 'path'
 import http from 'http'
 import cookieParser from 'cookie-parser'
-import { loggerService } from './services/logger.service.js'
+// import { fileURLToPath } from 'url'
 
 
 
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = dirname(__filename)
-
+// const __filename = fileURLToPath(import.meta.url)
+// const __dirname = dirname(__filename)
 const app = express()
 const server = http.createServer(app)
 
 app.use(cookieParser())
 app.use(express.json())
-app.use(express.static('public'))
 
 if (process.env.NODE_ENV === 'production') {
-
-    app.use(express.static(path.resolve(__dirname, 'public')))
+    app.use(express.static(path.resolve( 'public')))
 } else {
     const corsOptions = {
         origin: [
@@ -36,6 +32,7 @@ if (process.env.NODE_ENV === 'production') {
     app.use(cors(corsOptions))
 }
 
+
 //Routes
 import { authRoutes } from './api/auth/auth.routes.js'
 app.use('/api/auth', authRoutes)
@@ -49,17 +46,10 @@ app.use('/api/station', stationRoutes)
 import { songRoutes } from './api/songs/song.routes.js'
 app.use('/api/song', songRoutes)
 
-import { extractName } from './api/natural/natural.controller.js'
-app.post('/api/parse-title', (req, res) => {
-    const { title } = req.body;
-  
-    try {
-        const { artist, song } = extractName(title);
-        res.json({ artist, song });
-    } catch (error) {
-        res.status(500).send("Error parsing title");
-    }
-});
+import { setupSocketAPI } from './services/socket.service.js'
+
+setupSocketAPI(server)
+
 
 app.get('/**', (req, res) => {
     res.sendFile(path.resolve('public/index.html'))
@@ -67,6 +57,18 @@ app.get('/**', (req, res) => {
 
 const port = process.env.PORT || 3030
 
-app.listen(port, () => {
+import { loggerService } from './services/logger.service.js'
+server.listen(port, () => {
     loggerService.info('Server is running on port: ' + port)
 })
+// import { extractName } from './api/natural/natural.controller.js'
+// app.post('/api/parse-title', (req, res) => {
+//     const { title } = req.body;
+  
+//     try {
+//         const { artist, song } = extractName(title);
+//         res.json({ artist, song });
+//     } catch (error) {
+//         res.status(500).send("Error parsing title");
+//     }
+// });

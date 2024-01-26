@@ -1,591 +1,791 @@
-[{
-  "_id": {
-    "$oid": "65a79e6c0a6302dbc4ca8be1"
-  },
-  "name": "Daily Mix 1",
-  "stationListTitle": "Daily Mix",
-  "type": "playlist",
-  "tags": [],
-  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705484403/fo8dmqrfuzsgtf5thn8l.jpg",
-  "createdBy": {
-    "_id": "65a79e580a6302dbc4ca8be0",
-    "username": "TubeFy"
-  },
-  "likedByUsers": 0,
-  "songs": [
-    {
-      "name": "Girl&#39;s Not Grey (Official Music Video)",
-      "artist": "AFI",
-      "type": "song",
-      "duration": "03:13",
-      "trackId": "1Yzu-4kJg6g",
-      "imgUrl": "https://i.ytimg.com/vi/1Yzu-4kJg6g/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705484876401"
-      },
-      "likedByUsers": [],
-      "_id": "65a7a24c0a6302dbc4ca8be3"
-    }
-  ],
-  "duration": "",
-  "description": "AFI, The Offspring and more..."
-},
-{
-  "_id": {
-    "$oid": "65a7a2940a6302dbc4ca8be5"
-  },
-  "name": "Daily Mix 2",
-  "stationListTitle": "Daily Mix",
-  "type": "playlist",
-  "tags": [],
-  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705485058/cd6ofgiv6fljsfnadwmz.jpg",
-  "createdBy": {
-    "_id": "65a79e580a6302dbc4ca8be0",
-    "username": "TubeFy"
-  },
-  "likedByUsers": 0,
-  "songs": [
-    {
-      "name": "Hunger Strike",
-      "artist": "Temple Of The Dog",
-      "type": "song",
-      "duration": "04:04",
-      "trackId": "VUb450Alpps",
-      "imgUrl": "https://i.ytimg.com/vi/VUb450Alpps/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705485075254"
-      },
-      "likedByUsers": [],
-      "_id": "65a7a3130a6302dbc4ca8be6"
-    }
-  ],
-  "duration": "",
-  "description": "With Tamle of the Dog, Crhis Cornell and..."
-},
-{
-  "_id": {
-    "$oid": "65a7a3380a6302dbc4ca8be9"
-  },
-  "name": "Daily mix 3",
-  "stationListTitle": "Daily Mix",
-  "type": "playlist",
-  "tags": [],
-  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705485146/zlsole7ycakt8zwbynr2.jpg",
-  "createdBy": {
-    "_id": "65a79e580a6302dbc4ca8be0",
-    "username": "TubeFy"
-  },
-  "likedByUsers": 0,
-  "songs": [
-    {
-      "name": "Scream Out",
-      "artist": "The Unseen",
-      "type": "song",
-      "duration": "03:05",
-      "trackId": "dzVe8IgpbSc",
-      "imgUrl": "https://i.ytimg.com/vi/dzVe8IgpbSc/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705485159249"
-      },
-      "likedByUsers": [],
-      "_id": "65a7a3670a6302dbc4ca8bea"
+[
+  {
+    "name": "Daily Mix 1",
+    "stationListTitle": "Daily Mix",
+    "type": "playlist",
+    "tags": [],
+    "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705484403/fo8dmqrfuzsgtf5thn8l.jpg",
+    "createdBy": {
+      "_id": "65a79e580a6302dbc4ca8be0",
+      "username": "TubeFy"
     },
-    {
-      "name": "Do They Owe Us a Living?",
-      "artist": "Unknown",
-      "type": "song",
-      "duration": "01:25",
-      "trackId": "o2tyOGGO32M",
-      "imgUrl": "https://i.ytimg.com/vi/o2tyOGGO32M/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705485179920"
+    "likedByUsers": 0,
+    "songs": [
+      {
+        "_id": {
+          "$oid": "65a585783bc5d92a271d70bd"
+        },
+        "name": "Without Me",
+        "artist": "Eminem",
+        "type": "song",
+        "duration": "04:58",
+        "trackId": "YVkUvmDQ3HY",
+        "imgUrl": "https://i.ytimg.com/vi/YVkUvmDQ3HY/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705346424150"
+        },
+        "likedByUsers": []
       },
-      "likedByUsers": [],
-      "_id": "65a7a37b0a6302dbc4ca8beb"
+      {
+        "_id": {
+          "$oid": "65a585853bc5d92a271d70be"
+        },
+        "name": "Mockingbird",
+        "artist": "Eminem",
+        "type": "song",
+        "duration": "04:18",
+        "trackId": "S9bCLPwzSC0",
+        "imgUrl": "https://i.ytimg.com/vi/S9bCLPwzSC0/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705346437224"
+        },
+        "likedByUsers": []
+      },
+      {
+        "_id": {
+          "$oid": "65a586693bc5d92a271d70bf"
+        },
+        "name": "Flowers ",
+        "artist": "Miley Cyrus",
+        "type": "song",
+        "duration": "03:22",
+        "trackId": "G7KNmW9a75Y",
+        "imgUrl": "https://i.ytimg.com/vi/G7KNmW9a75Y/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705346665264"
+        },
+        "likedByUsers": []
+      },
+      {
+        "_id": {
+          "$oid": "65a586803bc5d92a271d70c0"
+        },
+        "name": "Kill Bill ",
+        "artist": "SZA",
+        "type": "song",
+        "duration": "04:36",
+        "trackId": "MSRcC626prw",
+        "imgUrl": "https://i.ytimg.com/vi/MSRcC626prw/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705346688501"
+        },
+        "likedByUsers": []
+      },
+      {
+        "_id": {
+          "$oid": "65a5868d3bc5d92a271d70c1"
+        },
+        "name": "As It Was (Official Video)",
+        "artist": "Harry Styles",
+        "type": "song",
+        "duration": "02:46",
+        "trackId": "H5v3kku4y6Q",
+        "imgUrl": "https://i.ytimg.com/vi/H5v3kku4y6Q/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705346701331"
+        },
+        "likedByUsers": []
+      }
+    ],
+    "duration": "",
+    "description": "AFI, The Offspring and more..."
+  },
+  {
+    "name": "Daily Mix 2",
+    "stationListTitle": "Daily Mix",
+    "type": "playlist",
+    "tags": [],
+    "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705485058/cd6ofgiv6fljsfnadwmz.jpg",
+    "createdBy": {
+      "_id": "65a79e580a6302dbc4ca8be0",
+      "username": "TubeFy"
     },
-    {
-      "name": "All Gone Dead",
-      "artist": "Unknown",
-      "type": "song",
-      "duration": "01:54",
-      "trackId": "wVFELYoXS2Y",
-      "imgUrl": "https://i.ytimg.com/vi/wVFELYoXS2Y/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705485198535"
+    "likedByUsers": 0,
+    "songs": [
+      {
+        "_id": {
+          "$oid": "65a586d63bc5d92a271d70c4"
+        },
+        "name": "Cruel Summer",
+        "artist": "Taylor Swift",
+        "type": "song",
+        "duration": "03:00",
+        "trackId": "JLJcHbYSlB8",
+        "imgUrl": "https://i.ytimg.com/vi/JLJcHbYSlB8/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705346774803"
+        },
+        "likedByUsers": []
       },
-      "likedByUsers": [],
-      "_id": "65a7a38e0a6302dbc4ca8bec"
-    }
-  ],
-  "duration": "",
-  "description": "The unseen, subhumans and crass"
-},
-{
-  "_id": {
-    "$oid": "65a7a3e50a6302dbc4ca8bed"
-  },
-  "name": "Daily Mix 4",
-  "stationListTitle": "Daily Mix",
-  "type": "playlist",
-  "tags": [],
-  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705485291/u3px1wohafl6add8vxop.jpg",
-  "createdBy": {
-    "_id": "65a79e580a6302dbc4ca8be0",
-    "username": "TubeFy"
-  },
-  "likedByUsers": 0,
-  "songs": [
-    {
-      "name": "Sphinx [OFFICIAL VIDEO]",
-      "artist": "Gojira",
-      "type": "song",
-      "duration": "04:03",
-      "trackId": "kl-2GUMijPM",
-      "imgUrl": "https://i.ytimg.com/vi/kl-2GUMijPM/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705485372026"
+      {
+        "_id": {
+          "$oid": "65a586e63bc5d92a271d70c5"
+        },
+        "name": "Creepin",
+        "artist": "Metro Boomin, The Weeknd, 21 Savage",
+        "type": "song",
+        "duration": "03:41",
+        "trackId": "-UcFeTfm1oM",
+        "imgUrl": "https://i.ytimg.com/vi/-UcFeTfm1oM/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705346790729"
+        },
+        "likedByUsers": []
       },
-      "likedByUsers": [],
-      "_id": "65a7a43c0a6302dbc4ca8bee"
+      {
+        "_id": {
+          "$oid": "65a587b63bc5d92a271d70c6"
+        },
+        "name": "BZRP Music Sessions 53",
+        "artist": "SHAKIRA",
+        "type": "song",
+        "duration": "04:40",
+        "trackId": "qSSg1EAImm4",
+        "imgUrl": "https://i.ytimg.com/vi/qSSg1EAImm4/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705346998977"
+        },
+        "likedByUsers": []
+      },
+      {
+        "_id": {
+          "$oid": "65a587c23bc5d92a271d70c7"
+        },
+        "name": "Anti-Hero ",
+        "artist": "Taylor Swift",
+        "type": "song",
+        "duration": "05:10",
+        "trackId": "b1kbLwvqugk",
+        "imgUrl": "https://i.ytimg.com/vi/b1kbLwvqugk/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705347010109"
+        },
+        "likedByUsers": []
+      }
+    ],
+    "duration": "",
+    "description": "With Tamle of the Dog, Crhis Cornell and..."
+  },
+  {
+    "name": "Daily mix 3",
+    "stationListTitle": "Daily Mix",
+    "type": "playlist",
+    "tags": [],
+    "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705485146/zlsole7ycakt8zwbynr2.jpg",
+    "createdBy": {
+      "_id": "65a79e580a6302dbc4ca8be0",
+      "username": "TubeFy"
     },
-    {
-      "name": "Psychosocial [OFFICIAL VIDEO] [HD]",
-      "artist": "Slipknot",
-      "type": "song",
-      "duration": "05:03",
-      "trackId": "5abamRO41fE",
-      "imgUrl": "https://i.ytimg.com/vi/5abamRO41fE/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705485385226"
+    "likedByUsers": 0,
+    "songs": [
+      {
+        "name": "Scream Out",
+        "artist": "The Unseen",
+        "type": "song",
+        "duration": "03:05",
+        "trackId": "dzVe8IgpbSc",
+        "imgUrl": "https://i.ytimg.com/vi/dzVe8IgpbSc/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705485159249"
+        },
+        "likedByUsers": [],
+        "_id": "65a7a3670a6302dbc4ca8bea"
       },
-      "likedByUsers": [],
-      "_id": "65a7a4490a6302dbc4ca8bef"
+      {
+        "name": "Do They Owe Us a Living?",
+        "artist": "Crass",
+        "type": "song",
+        "duration": "01:25",
+        "trackId": "o2tyOGGO32M",
+        "imgUrl": "https://i.ytimg.com/vi/o2tyOGGO32M/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705485179920"
+        },
+        "likedByUsers": [],
+        "_id": "65a7a37b0a6302dbc4ca8beb"
+      },
+      {
+        "name": "All Gone Dead",
+        "artist": "Subhumans",
+        "type": "song",
+        "duration": "01:54",
+        "trackId": "wVFELYoXS2Y",
+        "imgUrl": "https://i.ytimg.com/vi/wVFELYoXS2Y/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705485198535"
+        },
+        "likedByUsers": [],
+        "_id": "65a7a38e0a6302dbc4ca8bec"
+      }
+    ],
+    "duration": "",
+    "description": "The unseen, subhumans and crass"
+  },
+  {
+    "name": "Daily Mix 4",
+    "stationListTitle": "Daily Mix",
+    "type": "playlist",
+    "tags": [],
+    "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705485291/u3px1wohafl6add8vxop.jpg",
+    "createdBy": {
+      "_id": "65a79e580a6302dbc4ca8be0",
+      "username": "TubeFy"
     },
-    {
-      "name": "Square Hammer (Official Music Video)",
-      "artist": "Ghost",
-      "type": "song",
-      "duration": "04:00",
-      "trackId": "VqoyKzgkqR4",
-      "imgUrl": "https://i.ytimg.com/vi/VqoyKzgkqR4/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705485400224"
+    "likedByUsers": 0,
+    "songs": [
+      {
+        "name": "Sphinx ",
+        "artist": "Gojira",
+        "type": "song",
+        "duration": "04:03",
+        "trackId": "kl-2GUMijPM",
+        "imgUrl": "https://i.ytimg.com/vi/kl-2GUMijPM/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705485372026"
+        },
+        "likedByUsers": [],
+        "_id": "65a7a43c0a6302dbc4ca8bee"
       },
-      "likedByUsers": [],
-      "_id": "65a7a4580a6302dbc4ca8bf0"
-    }
-  ],
-  "duration": "",
-  "description": "Slipknot Gojira and more..."
-},
-{
-  "_id": {
-    "$oid": "65a7a47e0a6302dbc4ca8bf1"
-  },
-  "name": "Countdown to Extinction",
-  "stationListTitle": "",
-  "type": "playlist",
-  "tags": [],
-  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705485455/krxxylpmikv6vvnm4l61.jpg",
-  "createdBy": {
-    "_id": "65a79e580a6302dbc4ca8be0",
-    "username": "TubeFy"
-  },
-  "likedByUsers": 0,
-  "songs": [
-    {
-      "name": "Countdown To Extinction (Remastered/2012)",
-      "artist": "Unknown",
-      "type": "song",
-      "duration": "04:18",
-      "trackId": "3jejVarHf1U",
-      "imgUrl": "https://i.ytimg.com/vi/3jejVarHf1U/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705485529748"
+      {
+        "name": "Psychosocial",
+        "artist": "Slipknot",
+        "type": "song",
+        "duration": "05:03",
+        "trackId": "5abamRO41fE",
+        "imgUrl": "https://i.ytimg.com/vi/5abamRO41fE/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705485385226"
+        },
+        "likedByUsers": [],
+        "_id": "65a7a4490a6302dbc4ca8bef"
       },
-      "likedByUsers": [],
-      "_id": "65a7a4d90a6302dbc4ca8bf2"
+      {
+        "name": "Square Hammer ",
+        "artist": "Ghost",
+        "type": "song",
+        "duration": "04:00",
+        "trackId": "VqoyKzgkqR4",
+        "imgUrl": "https://i.ytimg.com/vi/VqoyKzgkqR4/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705485400224"
+        },
+        "likedByUsers": [],
+        "_id": "65a7a4580a6302dbc4ca8bf0"
+      }
+    ],
+    "duration": "",
+    "description": "Slipknot Gojira and more..."
+  },
+  {
+    "name": "Daily Mix 5",
+    "stationListTitle": "Daily Mix",
+    "type": "playlist",
+    "tags": [],
+    "imgUrl": "https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebafa254b2a224584485286526/5/en-GB/default",
+    "createdBy": {
+      "_id": "65a79e580a6302dbc4ca8be0",
+      "username": "TubeFy"
     },
-    {
-      "name": "Symphony Of Destruction",
-      "artist": "Unknown",
-      "type": "song",
-      "duration": "04:07",
-      "trackId": "WdoXZf-FZyA",
-      "imgUrl": "https://i.ytimg.com/vi/WdoXZf-FZyA/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705485563649"
-      },
-      "likedByUsers": [],
-      "_id": "65a7a4fb0a6302dbc4ca8bf3"
-    }
-  ],
-  "duration": "",
-  "description": "Megadeth "
-},
-{
-  "_id": {
-    "$oid": "65a7a5020a6302dbc4ca8bf4"
+    "likedByUsers": 0,
+    "songs": [
+      {
+        "_id": {
+          "$oid": "65a7a2340a6302dbc4ca8be2"
+        },
+        "name": "Can You Feel My Heart",
+        "artist": "Bring Me The Horizon",
+        "type": "song",
+        "duration": "03:49",
+        "trackId": "QJJYpsA5tv8",
+        "imgUrl": "https://i.ytimg.com/vi/QJJYpsA5tv8/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705484852826"
+        },
+        "likedByUsers": []
+      }
+    ],
+    "duration": "",
+    "description": "Slipknot Gojira and more..."
   },
-  "name": "Metal Mix",
-  "stationListTitle": "Daily Mix",
-  "type": "playlist",
-  "tags": [],
-  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705485738/gg0qam4qfxqwcodwki6q.jpg",
-  "createdBy": {
-    "_id": "65a79e580a6302dbc4ca8be0",
-    "username": "TubeFy"
-  },
-  "likedByUsers": 0,
-  "songs": [
-    {
-      "name": "Legends Never Die (Official Video) | Napalm Records",
-      "artist": "THE DARK SIDE OF THE MOON",
-      "type": "song",
-      "duration": "04:32",
-      "trackId": "sSSUfiD47_I",
-      "imgUrl": "https://i.ytimg.com/vi/sSSUfiD47_I/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705485614577"
-      },
-      "likedByUsers": [],
-      "_id": "65a7a52e0a6302dbc4ca8bf5"
+  
+  {
+    "name": "Countdown to Extinction",
+    "stationListTitle": "New music",
+    "type": "playlist",
+    "tags": [],
+    "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705485455/krxxylpmikv6vvnm4l61.jpg",
+    "createdBy": {
+      "_id": "65a79e580a6302dbc4ca8be0",
+      "username": "TubeFy"
     },
-    {
-      "name": "Vortex (Official Video) | Napalm Records",
-      "artist": "JINJER",
-      "type": "song",
-      "duration": "04:03",
-      "trackId": "AiaOSGZTwtY",
-      "imgUrl": "https://i.ytimg.com/vi/AiaOSGZTwtY/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705485634782"
+    "likedByUsers": 0,
+    "songs": [
+      {
+        "name": "Countdown To Extinction ",
+        "artist": "Megadeth",
+        "type": "song",
+        "duration": "04:18",
+        "trackId": "3jejVarHf1U",
+        "imgUrl": "https://i.ytimg.com/vi/3jejVarHf1U/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705485529748"
+        },
+        "likedByUsers": [],
+        "_id": "65a7a4d90a6302dbc4ca8bf2"
       },
-      "likedByUsers": [],
-      "_id": "65a7a5420a6302dbc4ca8bf6"
+      {
+        "name": "Symphony Of Destruction",
+        "artist": "Megadeth",
+        "type": "song",
+        "duration": "04:07",
+        "trackId": "WdoXZf-FZyA",
+        "imgUrl": "https://i.ytimg.com/vi/WdoXZf-FZyA/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705485563649"
+        },
+        "likedByUsers": [],
+        "_id": "65a7a4fb0a6302dbc4ca8bf3"
+      }
+    ],
+    "duration": "",
+    "description": "Megadeth "
+  },
+  {
+    "name": "Metal Mix",
+    "stationListTitle": "New music",
+    "type": "playlist",
+    "tags": [],
+    "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705485738/gg0qam4qfxqwcodwki6q.jpg",
+    "createdBy": {
+      "_id": "65a79e580a6302dbc4ca8be0",
+      "username": "TubeFy"
     },
-    {
-      "name": "Nemesis (OFFICIAL VIDEO)",
-      "artist": "ARCH ENEMY",
-      "type": "song",
-      "duration": "04:28",
-      "trackId": "n9AcG0glVu4",
-      "imgUrl": "https://i.ytimg.com/vi/n9AcG0glVu4/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705485646582"
+    "likedByUsers": 0,
+    "songs": [
+      {
+        "name": "Legends Never Die",
+        "artist": "THE DARK SIDE OF THE MOON",
+        "type": "song",
+        "duration": "04:32",
+        "trackId": "sSSUfiD47_I",
+        "imgUrl": "https://i.ytimg.com/vi/sSSUfiD47_I/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705485614577"
+        },
+        "likedByUsers": [],
+        "_id": "65a7a52e0a6302dbc4ca8bf5"
       },
-      "likedByUsers": [],
-      "_id": "65a7a54e0a6302dbc4ca8bf7"
-    }
-  ],
-  "duration": "",
-  "description": "Popular Metal bands"
-},
-{
-  "_id": {
-    "$oid": "65a582381424bff446d6839b"
-  },
-  "name": "Discover Weekly",
-  "stationListTitle": "New music",
-  "type": "playlist",
-  "tags": [],
-  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705350332/fxslryvz4zqsx7pfkcpj.jpg",
-  "createdBy": {
-    "_id": "",
-    "username": "TubeFy"
-  },
-  "likedByUsers": 0,
-  "songs": [
-    {
-      "name": "Flowers ",
-      "artist": "Miley Cyrus",
-      "type": "song",
-      "duration": "03:22",
-      "trackId": "G7KNmW9a75Y",
-      "imgUrl": "https://i.ytimg.com/vi/G7KNmW9a75Y/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705346665264"
+      {
+        "name": "Vortex (Official Video) | Napalm Records",
+        "artist": "JINJER",
+        "type": "song",
+        "duration": "04:03",
+        "trackId": "AiaOSGZTwtY",
+        "imgUrl": "https://i.ytimg.com/vi/AiaOSGZTwtY/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705485634782"
+        },
+        "likedByUsers": [],
+        "_id": "65a7a5420a6302dbc4ca8bf6"
       },
-      "likedByUsers": [],
-      "_id": "65a586693bc5d92a271d70bf"
+      {
+        "name": "Nemesis (OFFICIAL VIDEO)",
+        "artist": "ARCH ENEMY",
+        "type": "song",
+        "duration": "04:28",
+        "trackId": "n9AcG0glVu4",
+        "imgUrl": "https://i.ytimg.com/vi/n9AcG0glVu4/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705485646582"
+        },
+        "likedByUsers": [],
+        "_id": "65a7a54e0a6302dbc4ca8bf7"
+      }
+    ],
+    "duration": "",
+    "description": "Popular Metal bands"
+  },
+  {
+    "name": "Discover Weekly",
+    "stationListTitle": "New music",
+    "type": "playlist",
+    "tags": [],
+    "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705350332/fxslryvz4zqsx7pfkcpj.jpg",
+    "createdBy": {
+      "_id": "",
+      "username": "TubeFy"
     },
-    {
-      "name": "Kill Bill ",
-      "artist": "SZA",
-      "type": "song",
-      "duration": "04:36",
-      "trackId": "MSRcC626prw",
-      "imgUrl": "https://i.ytimg.com/vi/MSRcC626prw/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705346688501"
+    "likedByUsers": 0,
+    "songs": [
+      {
+        "name": "Flowers ",
+        "artist": "Miley Cyrus",
+        "type": "song",
+        "duration": "03:22",
+        "trackId": "G7KNmW9a75Y",
+        "imgUrl": "https://i.ytimg.com/vi/G7KNmW9a75Y/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705346665264"
+        },
+        "likedByUsers": [],
+        "_id": "65a586693bc5d92a271d70bf"
       },
-      "likedByUsers": [],
-      "_id": "65a586803bc5d92a271d70c0"
+      {
+        "name": "Kill Bill ",
+        "artist": "SZA",
+        "type": "song",
+        "duration": "04:36",
+        "trackId": "MSRcC626prw",
+        "imgUrl": "https://i.ytimg.com/vi/MSRcC626prw/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705346688501"
+        },
+        "likedByUsers": [],
+        "_id": "65a586803bc5d92a271d70c0"
+      },
+      {
+        "name": "As It Was ",
+        "artist": "Harry Styles",
+        "type": "song",
+        "duration": "02:46",
+        "trackId": "H5v3kku4y6Q",
+        "imgUrl": "https://i.ytimg.com/vi/H5v3kku4y6Q/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705346701331"
+        },
+        "likedByUsers": [],
+        "_id": "65a5868d3bc5d92a271d70c1"
+      },
+      {
+        "name": "Seven (feat. Latto)",
+        "artist": "Jungkook",
+        "type": "song",
+        "duration": "03:47",
+        "trackId": "QU9c0053UAU",
+        "imgUrl": "https://i.ytimg.com/vi/QU9c0053UAU/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705346723878"
+        },
+        "likedByUsers": [],
+        "_id": "65a586a33bc5d92a271d70c2"
+      },
+      {
+        "name": "Ella Baila Sola",
+        "artist": "Eslabon Armado & Peso Pluma",
+        "type": "song",
+        "duration": "03:08",
+        "trackId": "lZiaYpD9ZrI",
+        "imgUrl": "https://i.ytimg.com/vi/lZiaYpD9ZrI/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705346740420"
+        },
+        "likedByUsers": [],
+        "_id": "65a586b43bc5d92a271d70c3"
+      },
+      {
+        "name": "Cruel Summer",
+        "artist": "Taylor Swift",
+        "type": "song",
+        "duration": "03:00",
+        "trackId": "JLJcHbYSlB8",
+        "imgUrl": "https://i.ytimg.com/vi/JLJcHbYSlB8/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705346774803"
+        },
+        "likedByUsers": [],
+        "_id": "65a586d63bc5d92a271d70c4"
+      },
+      {
+        "name": "Creepin",
+        "artist": "The Weeknd",
+        "type": "song",
+        "duration": "03:41",
+        "trackId": "-UcFeTfm1oM",
+        "imgUrl": "https://i.ytimg.com/vi/-UcFeTfm1oM/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705346790729"
+        },
+        "likedByUsers": [],
+        "_id": "65a586e63bc5d92a271d70c5"
+      },
+      {
+        "name": "BZRP Music Sessions 53",
+        "artist": "SHAKIRA",
+        "type": "song",
+        "duration": "04:40",
+        "trackId": "qSSg1EAImm4",
+        "imgUrl": "https://i.ytimg.com/vi/qSSg1EAImm4/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705346998977"
+        },
+        "likedByUsers": [],
+        "_id": "65a587b63bc5d92a271d70c6"
+      },
+      {
+        "name": "Anti-Hero ",
+        "artist": "Taylor Swift",
+        "type": "song",
+        "duration": "05:10",
+        "trackId": "b1kbLwvqugk",
+        "imgUrl": "https://i.ytimg.com/vi/b1kbLwvqugk/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705347010109"
+        },
+        "likedByUsers": [],
+        "_id": "65a587c23bc5d92a271d70c7"
+      }
+    ],
+    "duration": "00:34:10",
+    "description": "Rock out while you game"
+  },
+  {
+    
+    "name": "Rock Radio",
+    "stationListTitle": "New music",
+    "type": "playlist",
+    "tags": [],
+    "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705503633/knuquvidkzfouyydavku.jpg",
+    "createdBy": {
+      "_id": "65a79e580a6302dbc4ca8be0",
+      "username": "TubeFy"
     },
-    {
-      "name": "As It Was ",
-      "artist": "Harry Styles",
-      "type": "song",
-      "duration": "02:46",
-      "trackId": "H5v3kku4y6Q",
-      "imgUrl": "https://i.ytimg.com/vi/H5v3kku4y6Q/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705346701331"
-      },
-      "likedByUsers": [],
-      "_id": "65a5868d3bc5d92a271d70c1"
+    "likedByUsers": 0,
+    "songs": [
+      {
+        "_id": {
+          "$oid": "65ac409d83a5dac2721960a4"
+        },
+        "name": "Now And Then",
+        "artist": "The Beatles",
+        "type": "song",
+        "duration": "04:36",
+        "trackId": "Opxhh9Oh3rg",
+        "imgUrl": "https://i.ytimg.com/vi/Opxhh9Oh3rg/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705787549309"
+        },
+        "likedByUsers": []
+      }
+    ],
+    "duration": "",
+    "description": "Best Rock radio"
+  },
+  {
+    
+    "name": "Best songs from the 90s",
+    "stationListTitle": "New music",
+    "type": "playlist",
+    "tags": [],
+    "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705503723/lvybhjwjyfbrogktlub9.jpg",
+    "createdBy": {
+      "_id": "65a79e580a6302dbc4ca8be0",
+      "username": "TubeFy"
     },
-    {
-      "name": "Seven (feat. Latto)",
-      "artist": "Jungkook",
-      "type": "song",
-      "duration": "03:47",
-      "trackId": "QU9c0053UAU",
-      "imgUrl": "https://i.ytimg.com/vi/QU9c0053UAU/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705346723878"
-      },
-      "likedByUsers": [],
-      "_id": "65a586a33bc5d92a271d70c2"
+    "likedByUsers": 0,
+    "songs": [
+      {
+        "name": "All I Want ",
+        "artist": "The Offspring",
+        "type": "song",
+        "duration": "01:56",
+        "trackId": "us8OhI-OTHg",
+        "imgUrl": "https://i.ytimg.com/vi/us8OhI-OTHg/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705484899719"
+        },
+        "likedByUsers": [],
+        "_id": "65a7a2630a6302dbc4ca8be4"
+      }
+    ],
+    "duration": "",
+    "description": "Best decade for music"
+  },
+
+  {
+    "name": "Ultimate music",
+    "stationListTitle": "Jump back on",
+    "type": "playlist",
+    "tags": [],
+    "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705503730/lhtkyfm4u73gwuylecxs.jpg",
+    "createdBy": {
+      "_id": "65a79e580a6302dbc4ca8be0",
+      "username": "TubeFy"
     },
-    {
-      "name": "Ella Baila Sola",
-      "artist": "Eslabon Armado & Peso Pluma",
-      "type": "song",
-      "duration": "03:08",
-      "trackId": "lZiaYpD9ZrI",
-      "imgUrl": "https://i.ytimg.com/vi/lZiaYpD9ZrI/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705346740420"
-      },
-      "likedByUsers": [],
-      "_id": "65a586b43bc5d92a271d70c3"
+    "likedByUsers": 0,
+    "songs": [
+      {
+        "name": "Can You Feel My Heart",
+        "artist": "Bring Me The Horizon",
+        "type": "song",
+        "duration": "03:49",
+        "trackId": "QJJYpsA5tv8",
+        "imgUrl": "https://i.ytimg.com/vi/QJJYpsA5tv8/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705484852826"
+        },
+        "likedByUsers": [],
+        "_id": "65a7a2340a6302dbc4ca8be2"
+      }
+    ],
+    "duration": "",
+    "description": "This weeks best"
+  },
+  {
+  
+    "name": "Rock Me Up",
+    "stationListTitle": "Jump back on",
+    "type": "playlist",
+    "tags": [],
+    "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705503755/gm8ebgg5regraquiftw2.jpg",
+    "createdBy": {
+      "_id": "65a79e580a6302dbc4ca8be0",
+      "username": "TubeFy"
     },
-    {
-      "name": "Cruel Summer",
-      "artist": "Taylor Swift",
-      "type": "song",
-      "duration": "03:00",
-      "trackId": "JLJcHbYSlB8",
-      "imgUrl": "https://i.ytimg.com/vi/JLJcHbYSlB8/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705346774803"
-      },
-      "likedByUsers": [],
-      "_id": "65a586d63bc5d92a271d70c4"
+    "likedByUsers": 0,
+    "songs": [
+      {
+        "name": "Alive",
+        "artist": "Pearl Jam",
+        "type": "song",
+        "duration": "04:56",
+        "trackId": "qM0zINtulhM",
+        "imgUrl": "https://i.ytimg.com/vi/qM0zINtulhM/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705485108632"
+        },
+        "likedByUsers": [],
+        "_id": "65a7a3340a6302dbc4ca8be8"
+      }
+    ],
+    "duration": "",
+    "description": "A dose of high-energy"
+  },
+  {
+    "name": "Chill",
+    "stationListTitle": "Jump back on",
+    "type": "playlist",
+    "tags": [],
+    "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705503768/ubynsafanzyxndfgxw0t.jpg",
+    "createdBy": {
+      "_id": "65a79e580a6302dbc4ca8be0",
+      "username": "TubeFy"
     },
-    {
-      "name": "Creepin",
-      "artist": "The Weeknd",
-      "type": "song",
-      "duration": "03:41",
-      "trackId": "-UcFeTfm1oM",
-      "imgUrl": "https://i.ytimg.com/vi/-UcFeTfm1oM/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705346790729"
-      },
-      "likedByUsers": [],
-      "_id": "65a586e63bc5d92a271d70c5"
+    "likedByUsers": 0,
+    "songs": [
+      {
+        "_id": {
+          "$oid": "65ac40af83a5dac27219610e"
+        },
+        "name": "One Love",
+        "artist": "Bob Marley",
+        "type": "song",
+        "duration": "02:46",
+        "trackId": "vdB-8eLEW8g",
+        "imgUrl": "https://i.ytimg.com/vi/vdB-8eLEW8g/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705787567335"
+        },
+        "likedByUsers": []
+      }
+    ],
+    "duration": "",
+    "description": "Songs you need to hear"
+  },
+  {
+    "name": "New blood",
+    "stationListTitle": "Jump back on",
+    "type": "playlist",
+    "tags": [],
+    "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705503768/ubynsafanzyxndfgxw0t.jpg",
+    "createdBy": {
+      "_id": "65a79e580a6302dbc4ca8be0",
+      "username": "TubeFy"
     },
-    {
-      "name": "BZRP Music Sessions 53",
-      "artist": "SHAKIRA",
-      "type": "song",
-      "duration": "04:40",
-      "trackId": "qSSg1EAImm4",
-      "imgUrl": "https://i.ytimg.com/vi/qSSg1EAImm4/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705346998977"
-      },
-      "likedByUsers": [],
-      "_id": "65a587b63bc5d92a271d70c6"
+    "likedByUsers": 0,
+    "songs": [
+      {
+        "name": "Be Yourself",
+        "artist": "Chris Cornnell",
+        "type": "song",
+        "duration": "03:33",
+        "trackId": "BITljGb9Wdk",
+        "imgUrl": "https://i.ytimg.com/vi/BITljGb9Wdk/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705485094053"
+        },
+        "likedByUsers": [],
+        "_id": "65a7a3260a6302dbc4ca8be7"
+      }
+    ],
+    "duration": "",
+    "description": "Songs you need to hear"
+  },
+  {
+    "name": "New blood",
+    "stationListTitle": "Jump back on",
+    "type": "playlist",
+    "tags": [],
+    "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705503768/ubynsafanzyxndfgxw0t.jpg",
+    "createdBy": {
+      "_id": "65a79e580a6302dbc4ca8be0",
+      "username": "TubeFy"
     },
-    {
-      "name": "Anti-Hero ",
-      "artist": "Taylor Swift",
-      "type": "song",
-      "duration": "05:10",
-      "trackId": "b1kbLwvqugk",
-      "imgUrl": "https://i.ytimg.com/vi/b1kbLwvqugk/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705347010109"
-      },
-      "likedByUsers": [],
-      "_id": "65a587c23bc5d92a271d70c7"
-    }
-  ],
-  "duration": "00:34:10",
-  "description": "Rock out while you game"
-},
-{
-  "_id": {
-    "$oid": "65a7eb4a64cffc0294370c88"
-  },
-  "name": "Rock Radio",
-  "stationListTitle": "Top charts",
-  "type": "playlist",
-  "tags": [],
-  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705503633/knuquvidkzfouyydavku.jpg",
-  "createdBy": {
-    "_id": "65a79e580a6302dbc4ca8be0",
-    "username": "TubeFy"
-  },
-  "likedByUsers": 0,
-  "songs": [],
-  "duration": "",
-  "description": "bla bla bla"
-},
-{
-  "_id": {
-    "$oid": "65a7ebb564cffc0294370c8c"
-  },
-  "name": "Best songs from the 90s",
-  "stationListTitle": "Top charts",
-  "type": "playlist",
-  "tags": [],
-  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705503723/lvybhjwjyfbrogktlub9.jpg",
-  "createdBy": {
-    "_id": "65a79e580a6302dbc4ca8be0",
-    "username": "TubeFy"
-  },
-  "likedByUsers": 0,
-  "songs": [
-    {
-      "name": "All I Want (Official Music Video)",
-      "artist": "The Offspring",
-      "type": "song",
-      "duration": "01:56",
-      "trackId": "us8OhI-OTHg",
-      "imgUrl": "https://i.ytimg.com/vi/us8OhI-OTHg/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705484899719"
-      },
-      "likedByUsers": [],
-      "_id": "65a7a2630a6302dbc4ca8be4"
-    }
-  ],
-  "duration": "",
-  "description": "bla bla bla"
-},
-{
-  "_id": {
-    "$oid": "65a7ebb564cffc0294370c8d"
-  },
-  "name": "Ultimate music",
-  "stationListTitle": "Jump back on",
-  "type": "playlist",
-  "tags": [],
-  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705503730/lhtkyfm4u73gwuylecxs.jpg",
-  "createdBy": {
-    "_id": "65a79e580a6302dbc4ca8be0",
-    "username": "TubeFy"
-  },
-  "likedByUsers": 0,
-  "songs": [
-    {
-      "name": "Can You Feel My Heart",
-      "artist": "Bring Me The Horizon",
-      "type": "song",
-      "duration": "03:49",
-      "trackId": "QJJYpsA5tv8",
-      "imgUrl": "https://i.ytimg.com/vi/QJJYpsA5tv8/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705484852826"
-      },
-      "likedByUsers": [],
-      "_id": "65a7a2340a6302dbc4ca8be2"
-    }
-  ],
-  "duration": "",
-  "description": "This weeks best"
-},
-{
-  "_id": {
-    "$oid": "65a7ebb664cffc0294370c8e"
-  },
-  "name": "Rock Me Up",
-  "stationListTitle": "Jump back on",
-  "type": "playlist",
-  "tags": [],
-  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705503755/gm8ebgg5regraquiftw2.jpg",
-  "createdBy": {
-    "_id": "65a79e580a6302dbc4ca8be0",
-    "username": "TubeFy"
-  },
-  "likedByUsers": 0,
-  "songs": [
-    {
-      "name": "Alive (Official Video)",
-      "artist": "Pearl Jam",
-      "type": "song",
-      "duration": "04:56",
-      "trackId": "qM0zINtulhM",
-      "imgUrl": "https://i.ytimg.com/vi/qM0zINtulhM/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705485108632"
-      },
-      "likedByUsers": [],
-      "_id": "65a7a3340a6302dbc4ca8be8"
-    }
-  ],
-  "duration": "",
-  "description": "A dose of high-energy"
-},
-{
-  "_id": {
-    "$oid": "65a7ebb664cffc0294370c8f"
-  },
-  "name": "New blood",
-  "stationListTitle": "Jump back on",
-  "type": "playlist",
-  "tags": [],
-  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705503768/ubynsafanzyxndfgxw0t.jpg",
-  "createdBy": {
-    "_id": "65a79e580a6302dbc4ca8be0",
-    "username": "TubeFy"
-  },
-  "likedByUsers": 0,
-  "songs": [
-    {
-      "name": "Be Yourself",
-      "artist": "Chris Cornnell",
-      "type": "song",
-      "duration": "03:33",
-      "trackId": "BITljGb9Wdk",
-      "imgUrl": "https://i.ytimg.com/vi/BITljGb9Wdk/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705485094053"
-      },
-      "likedByUsers": [],
-      "_id": "65a7a3260a6302dbc4ca8be7"
-    }
-  ],
-  "duration": "",
-  "description": "Songs you need to hear"
-}]
+    "likedByUsers": 0,
+    "songs": [
+      {
+        "_id": {
+          "$oid": "65ac40b083a5dac272196116"
+        },
+        "name": "Back In Black",
+        "artist": "ACDC",
+        "type": "song",
+        "duration": "04:14",
+        "trackId": "pAgnJDJN4VA",
+        "imgUrl": "https://i.ytimg.com/vi/pAgnJDJN4VA/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705787568119"
+        },
+        "likedByUsers": []
+      }
+    ],
+    "duration": "",
+    "description": "Songs you need to hear"
+  }
+]

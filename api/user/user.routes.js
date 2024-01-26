@@ -6,4 +6,4 @@ import { log } from '../../middlewares/logger.middleware.js'
 
 export const userRoutes = express.Router()
 userRoutes.put('/:userId',log , updateUser)
-userRoutes.delete('/:userId', requireAuth, deleteUser)
+// userRoutes.delete('/:userId', requireAuth, deleteUser)

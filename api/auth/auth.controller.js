@@ -19,9 +19,17 @@ export async function login(req, res) {
 
 export async function signup(req, res) {
     try {
-        const { username, password, email, stations, imgUrl } = req.body
+        const {
+            username,
+            password,
+            email,
+            stations,
+            imgUrl,
+            favorites,
+            friends
+        } = req.body
 
-        const account = await authService.signup(username, password, email, stations, imgUrl)
+        const account = await authService.signup(username, password, email, stations, imgUrl, favorites, friends)
         loggerService.debug(`auth.route - new account created: ` + JSON.stringify(account))
 
         const user = await authService.login(username, password)
@@ -32,7 +40,7 @@ export async function signup(req, res) {
 
     } catch (err) {
         loggerService.error('Failed to signup ' + err)
-        res.status(500).send({ err: 'Failed to signup' })
+        res.status(400).send({ err: 'Failed to signup' })
     }
 }
 
