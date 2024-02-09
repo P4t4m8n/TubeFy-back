@@ -1,14 +1,14 @@
 import express from 'express'
 import cors from 'cors'
-import path from 'path'
+import path, { dirname } from 'path'
 import http from 'http'
 import cookieParser from 'cookie-parser'
-// import { fileURLToPath } from 'url'
+import { fileURLToPath } from 'url'
 
 
 
-// const __filename = fileURLToPath(import.meta.url)
-// const __dirname = dirname(__filename)
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = dirname(__filename)
 const app = express()
 const server = http.createServer(app)
 
@@ -50,7 +50,6 @@ import { setupSocketAPI } from './services/socket.service.js'
 
 setupSocketAPI(server)
 
-
 app.get('/**', (req, res) => {
     res.sendFile(path.resolve('public/index.html'))
 })
@@ -61,14 +60,3 @@ import { loggerService } from './services/logger.service.js'
 server.listen(port, () => {
     loggerService.info('Server is running on port: ' + port)
 })
-// import { extractName } from './api/natural/natural.controller.js'
-// app.post('/api/parse-title', (req, res) => {
-//     const { title } = req.body;
-  
-//     try {
-//         const { artist, song } = extractName(title);
-//         res.json({ artist, song });
-//     } catch (error) {
-//         res.status(500).send("Error parsing title");
-//     }
-// });

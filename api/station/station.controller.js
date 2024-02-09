@@ -4,7 +4,7 @@ import { stationService } from './station.service.js'
 export async function getStations(req, res) {
 
     try {
-        const filterSortBy = {          
+        const filterSortBy = {
         }
         loggerService.debug('Getting stations', filterSortBy)
         const stations = await stationService.query(filterSortBy)
@@ -20,8 +20,6 @@ export async function getStationById(req, res) {
 
     try {
         const { stationId } = req.params
-        console.log("stationId:", stationId)
-
         const station = await stationService.getById(stationId)
         res.json(station)
 
@@ -34,7 +32,14 @@ export async function getStationById(req, res) {
 
 export async function addStation(req, res) {
 
-    const { name, stationListTitle, type, tags, imgUrl, createdBy, duration, likedByUsers, songs, description} = req.body
+    const { name,
+        stationListTitle,
+        type,
+        imgUrl,
+        createdBy,
+        duration,
+        songs,
+        description } = req.body
 
     try {
 
@@ -42,13 +47,11 @@ export async function addStation(req, res) {
             name: name || '',
             stationListTitle: stationListTitle || '',
             type: type || 'playlist',
-            tags: tags || [],
             imgUrl: imgUrl || '',
             createdBy: createdBy || 'YoutubeFy',
-            likedByUsers: +likedByUsers,
             songs: songs,
             duration: duration,
-            description:description,
+            description: description,
         }
 
         const addedstation = await stationService.add(stationToSave)
@@ -61,22 +64,19 @@ export async function addStation(req, res) {
     }
 }
 
-export async function updatestation(req, res) {
-    const { name, stationListTitle, type, tags, imgUrl, createdBy, likedByUsers, duration, songs, _id,description } = req.body
-    console.log("duration:", duration)
+export async function updateStation(req, res) {
+    const { name, stationListTitle, type, imgUrl, createdBy, duration, songs, _id, description } = req.body
     try {
 
         const stationToSave = {
-            name: name,
-            stationListTitle: stationListTitle,
-            type: type,
-            tags: tags,
-            imgUrl: imgUrl,
-            createdBy: createdBy,
-            likedByUsers: +likedByUsers,
-            songs: songs,
-            duration: duration,
-            description,
+            name,
+            stationListTitle,
+            type,
+            imgUrl,
+            createdBy,
+            duration,
+            songs,
+            description
         }
         const stationId = _id
 
