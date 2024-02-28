@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "65c61d340580cb91dd88ead7"
+  },
+  "username": "Demouser",
+  "password": "$2b$10$wlaRXg8S37x77Zi6eO.d1erRTxk15hbSeKNoVIHILHw5Kl/xeA8sm",
+  "email": "a@a",
+  "stations": [
+    {
+      "name": "Liked Songs",
+      "stationListTitle": "",
+      "type": "playlist",
+      "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705451341/ebpe6nnlgajtmfyldt4a.png",
+      "createdBy": {
+        "_id": "",
+        "username": ""
+      },
+      "songs": [],
+      "duration": "00:00",
+      "description": "",
+      "_id": "65c61d340580cb91dd88ead6"
+    }
+  ],
+  "imgUrl": "",
+  "favorites": [],
+  "friends": []
+},
+{
+  "_id": {
+    "$oid": "65c61d4f0580cb91dd88ead9"
+  },
+  "username": "DemoUserOne",
+  "password": "$2b$10$3yvbrKkIES9pzJpq2CCY3uwQ7ztC7BixlDWoStQojH7CXLnGU3mU6",
+  "email": "a@a",
+  "stations": [
+    {
+      "name": "Liked Songs",
+      "stationListTitle": "",
+      "type": "playlist",
+      "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705451341/ebpe6nnlgajtmfyldt4a.png",
+      "createdBy": {
+        "_id": "",
+        "username": ""
+      },
+      "songs": [],
+      "duration": "00:00",
+      "description": "",
+      "_id": "65c61d4f0580cb91dd88ead8"
+    },
+    {
+      "name": "test",
+      "stationListTitle": "",
+      "type": "playlist",
+      "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1707482782/vg2ac51qu0x03cirq8si.png",
+      "createdBy": {
+        "_id": "65c61d4f0580cb91dd88ead9",
+        "username": "DemoUserOne"
+      },
+      "duration": "00:04:58",
+      "songs": [
+        {
+          "name": "Without Me",
+          "artist": "Eminem",
+          "type": "song",
+          "duration": "04:58",
+          "trackId": "YVkUvmDQ3HY",
+          "imgUrl": "https://i.ytimg.com/vi/YVkUvmDQ3HY/mqdefault.jpg",
+          "addedBy": "artist",
+          "addedAt": {
+            "$numberLong": "1707483106144"
+          },
+          "likedBy": [],
+          "tags": []
+        }
+      ],
+      "description": "",
+      "_id": "65c61e8e0580cb91dd88eade"
+    }
+  ],
+  "imgUrl": "",
+  "favorites": [],
+  "friends": []
+},
+{
+  "_id": {
+    "$oid": "65c61d710580cb91dd88eadb"
+  },
+  "username": "DemoUserTwo",
+  "password": "$2b$10$H9J9VuMOAxW9BPYIiu5jaOuOjDAhesBc/wuUziVbL9NGgfrjoNcz2",
+  "email": "a@a",
+  "stations": [
+    {
+      "name": "Liked Songs",
+      "stationListTitle": "",
+      "type": "playlist",
+      "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705451341/ebpe6nnlgajtmfyldt4a.png",
+      "createdBy": {
+        "_id": "",
+        "username": ""
+      },
+      "songs": [],
+      "duration": "00:00",
+      "description": "",
+      "_id": "65c61d710580cb91dd88eada"
+    },
+    {
+      "name": "test",
+      "stationListTitle": "",
+      "type": "playlist",
+      "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1707482782/vg2ac51qu0x03cirq8si.png",
+      "createdBy": {
+        "_id": "65c61d4f0580cb91dd88ead9",
+        "username": "DemoUserOne"
+      },
+      "duration": "00:04:58",
+      "songs": [
+        {
+          "name": "Without Me",
+          "artist": "Eminem",
+          "type": "song",
+          "duration": "04:58",
+          "trackId": "YVkUvmDQ3HY",
+          "imgUrl": "https://i.ytimg.com/vi/YVkUvmDQ3HY/mqdefault.jpg",
+          "addedBy": "artist",
+          "addedAt": {
+            "$numberLong": "1707483106144"
+          },
+          "likedBy": [],
+          "tags": []
+        }
+      ],
+      "description": "",
+      "_id": "65c61e8e0580cb91dd88eade"
+    }
+  ],
+  "imgUrl": "",
+  "favorites": [
+    "65c61e8e0580cb91dd88eade"
+  ],
+  "friends": []
+},
+{
+  "_id": {
+    "$oid": "65c61da00580cb91dd88eadd"
+  },
+  "username": "DemoUserThree",
+  "password": "$2b$10$JIHjIBBsGyq1XYQVuXQkH.vaYk5N6ol873fx2sT8iyWxxpMmBb.6m",
+  "email": "a@a",
+  "stations": [
+    {
+      "name": "Liked Songs",
+      "stationListTitle": "",
+      "type": "playlist",
+      "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705451341/ebpe6nnlgajtmfyldt4a.png",
+      "createdBy": {
+        "_id": "",
+        "username": ""
+      },
+      "songs": [],
+      "duration": "00:00",
+      "description": "",
+      "_id": "65c61da00580cb91dd88eadc"
+    }
+  ],
+  "imgUrl": "",
+  "favorites": [],
+  "friends": []
+}]
