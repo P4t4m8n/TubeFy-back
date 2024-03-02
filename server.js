@@ -43,9 +43,6 @@ app.use('/api/user', userRoutes)
 import { stationRoutes } from './api/station/station.routes.js'
 app.use('/api/station', stationRoutes)
 
-import { songRoutes } from './api/songs/song.routes.js'
-app.use('/api/song', songRoutes)
-
 import { setupSocketAPI } from './services/socket.service.js'
 
 setupSocketAPI(server)

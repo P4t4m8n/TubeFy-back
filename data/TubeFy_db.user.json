@@ -42,8 +42,22 @@
         "_id": "",
         "username": ""
       },
-      "songs": [],
-      "duration": "00:00",
+      "songs": [
+        {
+          "name": "Blank Space",
+          "artist": "Taylor Swift",
+          "type": "song",
+          "duration": "04:33",
+          "_id": "e-ORhEE9VVg",
+          "imgUrl": "https://i.ytimg.com/vi/e-ORhEE9VVg/mqdefault.jpg",
+          "addedBy": "artist",
+          "addedAt": {
+            "$numberLong": "1705787571243"
+          },
+          "likedByUsers": []
+        }
+      ],
+      "duration": "00:04:33",
       "description": "",
       "_id": "65c61d4f0580cb91dd88ead8"
     },
@@ -63,11 +77,11 @@
           "artist": "Eminem",
           "type": "song",
           "duration": "04:58",
-          "trackId": "YVkUvmDQ3HY",
+          "_id": "YVkUvmDQ3HY",
           "imgUrl": "https://i.ytimg.com/vi/YVkUvmDQ3HY/mqdefault.jpg",
           "addedBy": "artist",
           "addedAt": {
-            "$numberLong": "1707483106144"
+            "$numberLong": "1709205643557"
           },
           "likedBy": [],
           "tags": []
@@ -75,6 +89,34 @@
       ],
       "description": "",
       "_id": "65c61e8e0580cb91dd88eade"
+    },
+    {
+      "name": "My station #1",
+      "stationListTitle": "",
+      "type": "playlist",
+      "imgUrl": "",
+      "createdBy": {
+        "_id": "65c61d4f0580cb91dd88ead9",
+        "username": "DemoUserOne"
+      },
+      "duration": "00:04:33",
+      "songs": [
+        {
+          "name": "Blank Space",
+          "artist": "Taylor Swift",
+          "type": "song",
+          "duration": "04:33",
+          "_id": "e-ORhEE9VVg",
+          "imgUrl": "https://i.ytimg.com/vi/e-ORhEE9VVg/mqdefault.jpg",
+          "addedBy": "artist",
+          "addedAt": {
+            "$numberLong": "1705787571243"
+          },
+          "likedByUsers": []
+        }
+      ],
+      "description": "",
+      "_id": "65df7c5e3754f33cf9b3ee77"
     }
   ],
   "imgUrl": "",
@@ -119,7 +161,7 @@
           "artist": "Eminem",
           "type": "song",
           "duration": "04:58",
-          "trackId": "YVkUvmDQ3HY",
+          "_id": "YVkUvmDQ3HY",
           "imgUrl": "https://i.ytimg.com/vi/YVkUvmDQ3HY/mqdefault.jpg",
           "addedBy": "artist",
           "addedAt": {
