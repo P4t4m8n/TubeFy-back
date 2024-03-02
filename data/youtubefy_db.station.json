@@ -1,5 +1,4 @@
 [
- 
   {
     "_id": {
       "$oid": "65b0e85e3859717e33a0245f"
@@ -18,7 +17,7 @@
         "artist": "Gojira",
         "type": "song",
         "duration": "04:03",
-        "trackId": "kl-2GUMijPM",
+        "_id": "kl-2GUMijPM",
         "imgUrl": "https://i.ytimg.com/vi/kl-2GUMijPM/mqdefault.jpg",
         "addedBy": "artist",
         "addedAt": {
@@ -30,7 +29,7 @@
         "artist": "Slipknot",
         "type": "song",
         "duration": "05:03",
-        "trackId": "5abamRO41fE",
+        "_id": "5abamRO41fE",
         "imgUrl": "https://i.ytimg.com/vi/5abamRO41fE/mqdefault.jpg",
         "addedBy": "artist",
         "addedAt": {
@@ -42,7 +41,7 @@
         "artist": "Ghost",
         "type": "song",
         "duration": "04:00",
-        "trackId": "VqoyKzgkqR4",
+        "_id": "VqoyKzgkqR4",
         "imgUrl": "https://i.ytimg.com/vi/VqoyKzgkqR4/mqdefault.jpg",
         "addedBy": "artist",
         "addedAt": {
@@ -71,7 +70,7 @@
         "artist": "Bring Me The Horizon",
         "type": "song",
         "duration": "03:49",
-        "trackId": "QJJYpsA5tv8",
+        "_id": "QJJYpsA5tv8",
         "imgUrl": "https://i.ytimg.com/vi/QJJYpsA5tv8/mqdefault.jpg",
         "addedBy": "artist",
         "addedAt": {
@@ -97,7 +96,7 @@
         "artist": "Megadeth",
         "type": "song",
         "duration": "04:18",
-        "trackId": "3jejVarHf1U",
+        "_id": "3jejVarHf1U",
         "imgUrl": "https://i.ytimg.com/vi/3jejVarHf1U/mqdefault.jpg",
         "addedBy": "artist",
         "addedAt": {
@@ -109,7 +108,7 @@
         "artist": "Megadeth",
         "type": "song",
         "duration": "04:07",
-        "trackId": "WdoXZf-FZyA",
+        "_id": "WdoXZf-FZyA",
         "imgUrl": "https://i.ytimg.com/vi/WdoXZf-FZyA/mqdefault.jpg",
         "addedBy": "artist",
         "addedAt": {
@@ -138,7 +137,7 @@
         "artist": "THE DARK SIDE OF THE MOON",
         "type": "song",
         "duration": "04:32",
-        "trackId": "sSSUfiD47_I",
+        "_id": "sSSUfiD47_I",
         "imgUrl": "https://i.ytimg.com/vi/sSSUfiD47_I/mqdefault.jpg",
         "addedBy": "artist",
         "addedAt": {
@@ -150,7 +149,7 @@
         "artist": "JINJER",
         "type": "song",
         "duration": "04:03",
-        "trackId": "AiaOSGZTwtY",
+        "_id": "AiaOSGZTwtY",
         "imgUrl": "https://i.ytimg.com/vi/AiaOSGZTwtY/mqdefault.jpg",
         "addedBy": "artist",
         "addedAt": {
@@ -162,7 +161,7 @@
         "artist": "ARCH ENEMY",
         "type": "song",
         "duration": "04:28",
-        "trackId": "n9AcG0glVu4",
+        "_id": "n9AcG0glVu4",
         "imgUrl": "https://i.ytimg.com/vi/n9AcG0glVu4/mqdefault.jpg",
         "addedBy": "artist",
         "addedAt": {
@@ -191,7 +190,7 @@
         "artist": "Miley Cyrus",
         "type": "song",
         "duration": "03:22",
-        "trackId": "G7KNmW9a75Y",
+        "_id": "G7KNmW9a75Y",
         "imgUrl": "https://i.ytimg.com/vi/G7KNmW9a75Y/mqdefault.jpg",
         "addedBy": "artist",
         "addedAt": {
@@ -203,7 +202,7 @@
         "artist": "SZA",
         "type": "song",
         "duration": "04:36",
-        "trackId": "MSRcC626prw",
+        "_id": "MSRcC626prw",
         "imgUrl": "https://i.ytimg.com/vi/MSRcC626prw/mqdefault.jpg",
         "addedBy": "artist",
         "addedAt": {
@@ -215,7 +214,7 @@
         "artist": "Harry Styles",
         "type": "song",
         "duration": "02:46",
-        "trackId": "H5v3kku4y6Q",
+        "_id": "H5v3kku4y6Q",
         "imgUrl": "https://i.ytimg.com/vi/H5v3kku4y6Q/mqdefault.jpg",
         "addedBy": "artist",
         "addedAt": {
@@ -227,7 +226,7 @@
         "artist": "Jungkook",
         "type": "song",
         "duration": "03:47",
-        "trackId": "QU9c0053UAU",
+        "_id": "QU9c0053UAU",
         "imgUrl": "https://i.ytimg.com/vi/QU9c0053UAU/mqdefault.jpg",
         "addedBy": "artist",
         "addedAt": {
@@ -239,7 +238,7 @@
         "artist": "Eslabon Armado & Peso Pluma",
         "type": "song",
         "duration": "03:08",
-        "trackId": "lZiaYpD9ZrI",
+        "_id": "lZiaYpD9ZrI",
         "imgUrl": "https://i.ytimg.com/vi/lZiaYpD9ZrI/mqdefault.jpg",
         "addedBy": "artist",
         "addedAt": {
@@ -251,7 +250,7 @@
         "artist": "Taylor Swift",
         "type": "song",
         "duration": "03:00",
-        "trackId": "JLJcHbYSlB8",
+        "_id": "JLJcHbYSlB8",
         "imgUrl": "https://i.ytimg.com/vi/JLJcHbYSlB8/mqdefault.jpg",
         "addedBy": "artist",
         "addedAt": {
@@ -263,7 +262,7 @@
         "artist": "The Weeknd",
         "type": "song",
         "duration": "03:41",
-        "trackId": "-UcFeTfm1oM",
+        "_id": "-UcFeTfm1oM",
         "imgUrl": "https://i.ytimg.com/vi/-UcFeTfm1oM/mqdefault.jpg",
         "addedBy": "artist",
         "addedAt": {
@@ -275,7 +274,7 @@
         "artist": "SHAKIRA",
         "type": "song",
         "duration": "04:40",
-        "trackId": "qSSg1EAImm4",
+        "_id": "qSSg1EAImm4",
         "imgUrl": "https://i.ytimg.com/vi/qSSg1EAImm4/mqdefault.jpg",
         "addedBy": "artist",
         "addedAt": {
@@ -287,7 +286,7 @@
         "artist": "Taylor Swift",
         "type": "song",
         "duration": "05:10",
-        "trackId": "b1kbLwvqugk",
+        "_id": "b1kbLwvqugk",
         "imgUrl": "https://i.ytimg.com/vi/b1kbLwvqugk/mqdefault.jpg",
         "addedBy": "artist",
         "addedAt": {
@@ -316,7 +315,7 @@
         "artist": "The Beatles",
         "type": "song",
         "duration": "04:36",
-        "trackId": "Opxhh9Oh3rg",
+        "_id": "Opxhh9Oh3rg",
         "imgUrl": "https://i.ytimg.com/vi/Opxhh9Oh3rg/mqdefault.jpg",
         "addedBy": "artist",
         "addedAt": {
@@ -345,7 +344,7 @@
         "artist": "The Offspring",
         "type": "song",
         "duration": "01:56",
-        "trackId": "us8OhI-OTHg",
+        "_id": "us8OhI-OTHg",
         "imgUrl": "https://i.ytimg.com/vi/us8OhI-OTHg/mqdefault.jpg",
         "addedBy": "artist",
         "addedAt": {
@@ -357,9 +356,7 @@
     "description": "Best decade for music"
   },
   {
-    "_id": {
-      "$oid": "65b0e85e3859717e33a02466"
-    },
+   
     "name": "Ultimate music",
     "stationListTitle": "Jump back on",
     "type": "playlist",
@@ -374,7 +371,7 @@
         "artist": "Bring Me The Horizon",
         "type": "song",
         "duration": "03:49",
-        "trackId": "QJJYpsA5tv8",
+        "_id": "QJJYpsA5tv8",
         "imgUrl": "https://i.ytimg.com/vi/QJJYpsA5tv8/mqdefault.jpg",
         "addedBy": "artist",
         "addedAt": {
@@ -386,10 +383,115 @@
     "description": "This weeks best"
   },
   {
-    "_id": {
-      "$oid": "65b0e85e3859717e33a02467"
+    "name": "Pop Rising",
+    "stationListTitle": "New in Pop",
+    "type": "playlist",
+    "imgUrl": "https://res.cloudinary.com/dpnevk8db/image/upload/v1709397807/asset_84_iukchp.jpg",
+    "createdBy": {
+      "_id": "65a79e580a6302dbc4ca8be0",
+      "username": "TubeFy"
     },
-    "name": "Rock Me Up",
+    "songs": [
+      {
+        "name": "One",
+        "artist": "Metallica",
+        "type": "song",
+        "duration": "07:45",
+        "_id": "WM8bTdBs-cw",
+        "imgUrl": "https://i.ytimg.com/vi/WM8bTdBs-cw/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705787571690"
+        }
+      }
+    ],
+    "duration": "",
+    "description": "A dose of high-energy"
+  },
+  {
+  
+    "name": "New Nu",
+    "stationListTitle": "Jump back on",
+    "type": "playlist",
+    "imgUrl": "https://res.cloudinary.com/dpnevk8db/image/upload/v1709397804/asset_80_jc9rp2.jpg",
+    "createdBy": {
+      "_id": "65a79e580a6302dbc4ca8be0",
+      "username": "TubeFy"
+    },
+    "songs": [
+      {
+        "name": "EnterSandman",
+        "artist": "Metallica",
+        "type": "song",
+        "duration": "05:31",
+        "_id": "CD-E-LDc384",
+        "imgUrl": "https://i.ytimg.com/vi/CD-E-LDc384/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705787571674"
+        }
+      }
+    ],
+    "duration": "",
+    "description": "A dose of high-energy"
+  },
+  {
+  
+    "name": "היפ הופ ישראלי",
+    "stationListTitle": "הכי חדש",
+    "type": "playlist",
+    "imgUrl": "https://res.cloudinary.com/dpnevk8db/image/upload/v1709397798/asset_54_mbhou3.jpg",
+    "createdBy": {
+      "_id": "65a79e580a6302dbc4ca8be0",
+      "username": "TubeFy"
+    },
+    "songs": [
+      {
+        "name": "Shake It Off",
+        "artist": "Taylor Swift",
+        "type": "song",
+        "duration": "04:02",
+        "_id": "nfWlot6h_JM",
+        "imgUrl": "https://i.ytimg.com/vi/nfWlot6h_JM/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705787571246"
+        }
+      }
+    ],
+    "duration": "",
+    "description": "A dose of high-energy"
+  },
+  {
+   
+    "name": "Energy Booster",
+    "stationListTitle": "For Workout",
+    "type": "playlist",
+    "imgUrl": "https://res.cloudinary.com/dpnevk8db/image/upload/v1709397750/asset_102_ngxuji.jpg",
+    "createdBy": {
+      "_id": "65a79e580a6302dbc4ca8be0",
+      "username": "TubeFy"
+    },
+    "songs": [
+      {
+        "name": "Blank Space",
+        "artist": "Taylor Swift",
+        "type": "song",
+        "duration": "04:33",
+        "_id": "e-ORhEE9VVg",
+        "imgUrl": "https://i.ytimg.com/vi/e-ORhEE9VVg/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705787571243"
+        }
+      }
+    ],
+    "duration": "",
+    "description": "A dose of high-energy"
+  },
+  {
+ 
+    "name": "אלטרנטיב של ישראל",
     "stationListTitle": "Jump back on",
     "type": "playlist",
     "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705503755/gm8ebgg5regraquiftw2.jpg",
@@ -399,18 +501,46 @@
     },
     "songs": [
       {
-        "name": "Alive",
-        "artist": "Pearl Jam",
+        "name": "Surfin Usa",
+        "artist": "Beach Boys",
         "type": "song",
-        "duration": "04:56",
-        "trackId": "qM0zINtulhM",
-        "imgUrl": "https://i.ytimg.com/vi/qM0zINtulhM/mqdefault.jpg",
+        "duration": "03:41",
+        "_id": "2s4slliAtQU",
+        "imgUrl": "https://i.ytimg.com/vi/2s4slliAtQU/mqdefault.jpg",
         "addedBy": "artist",
         "addedAt": {
-          "$numberLong": "1705485108632"
+          "$numberLong": "1705787568496"
         }
       }
     ],
     "duration": "",
     "description": "A dose of high-energy"
-  }]
+  },
+  {
+ 
+    "name": "פופ ישראלי",
+    "stationListTitle": "Jump back on",
+    "type": "playlist",
+    "imgUrl": "https://res.cloudinary.com/dpnevk8db/image/upload/v1709397797/asset_52_t3llc9.jpg",
+    "createdBy": {
+      "_id": "65a79e580a6302dbc4ca8be0",
+      "username": "TubeFy"
+    },
+    "songs": [
+      {
+        "name": "Kokomo",
+        "artist": "The Beach Boys",
+        "type": "song",
+        "duration": "03:33",
+        "_id": "fJWmbLS2_ec",
+        "imgUrl": "https://i.ytimg.com/vi/fJWmbLS2_ec/mqdefault.jpg",
+        "addedBy": "artist",
+        "addedAt": {
+          "$numberLong": "1705787568491"
+        }
+      }
+    ],
+    "duration": "",
+    "description": "A dose of high-energy"
+  }
+]

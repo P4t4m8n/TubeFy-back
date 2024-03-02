@@ -42,34 +42,6 @@
         "_id": "",
         "username": ""
       },
-      "songs": [
-        {
-          "name": "Blank Space",
-          "artist": "Taylor Swift",
-          "type": "song",
-          "duration": "04:33",
-          "_id": "e-ORhEE9VVg",
-          "imgUrl": "https://i.ytimg.com/vi/e-ORhEE9VVg/mqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705787571243"
-          },
-          "likedByUsers": []
-        }
-      ],
-      "duration": "00:04:33",
-      "description": "",
-      "_id": "65c61d4f0580cb91dd88ead8"
-    },
-    {
-      "name": "test",
-      "stationListTitle": "",
-      "type": "playlist",
-      "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1707482782/vg2ac51qu0x03cirq8si.png",
-      "createdBy": {
-        "_id": "65c61d4f0580cb91dd88ead9",
-        "username": "DemoUserOne"
-      },
       "duration": "00:04:58",
       "songs": [
         {
@@ -81,14 +53,41 @@
           "imgUrl": "https://i.ytimg.com/vi/YVkUvmDQ3HY/mqdefault.jpg",
           "addedBy": "artist",
           "addedAt": {
-            "$numberLong": "1709205643557"
+            "$numberLong": "1707483106144"
           },
           "likedBy": [],
           "tags": []
         }
       ],
       "description": "",
-      "_id": "65c61e8e0580cb91dd88eade"
+      "_id": "65c61d4f0580cb91dd88ead8"
+    },
+    {
+      "name": "My station #0",
+      "stationListTitle": "",
+      "type": "playlist",
+      "imgUrl": "",
+      "createdBy": {
+        "_id": "65c61d4f0580cb91dd88ead9",
+        "username": "DemoUserOne"
+      },
+      "duration": "00:04:40",
+      "songs": [
+        {
+          "name": "BZRP Music Sessions 53",
+          "artist": "SHAKIRA",
+          "type": "song",
+          "duration": "04:40",
+          "_id": "qSSg1EAImm4",
+          "imgUrl": "https://i.ytimg.com/vi/qSSg1EAImm4/mqdefault.jpg",
+          "addedBy": "artist",
+          "addedAt": {
+            "$numberLong": "1705346998977"
+          }
+        }
+      ],
+      "description": "",
+      "_id": "65e1e4c8bd6d19dd11a62a78"
     },
     {
       "name": "My station #1",
@@ -99,24 +98,10 @@
         "_id": "65c61d4f0580cb91dd88ead9",
         "username": "DemoUserOne"
       },
-      "duration": "00:04:33",
-      "songs": [
-        {
-          "name": "Blank Space",
-          "artist": "Taylor Swift",
-          "type": "song",
-          "duration": "04:33",
-          "_id": "e-ORhEE9VVg",
-          "imgUrl": "https://i.ytimg.com/vi/e-ORhEE9VVg/mqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705787571243"
-          },
-          "likedByUsers": []
-        }
-      ],
+      "songs": [],
+      "duration": "00:00",
       "description": "",
-      "_id": "65df7c5e3754f33cf9b3ee77"
+      "_id": "65e20902bd6d19dd11a62a79"
     }
   ],
   "imgUrl": "",
@@ -140,13 +125,26 @@
         "_id": "",
         "username": ""
       },
-      "songs": [],
-      "duration": "00:00",
+      "songs": [
+        {
+          "name": "All Gone Dead",
+          "artist": "Subhumans",
+          "type": "song",
+          "duration": "01:54",
+          "_id": "wVFELYoXS2Y",
+          "imgUrl": "https://i.ytimg.com/vi/wVFELYoXS2Y/mqdefault.jpg",
+          "addedBy": "artist",
+          "addedAt": {
+            "$numberLong": "1705485198535"
+          }
+        }
+      ],
+      "duration": "00:01:54",
       "description": "",
       "_id": "65c61d710580cb91dd88eada"
     },
     {
-      "name": "test",
+      "name": "testsfdsfdsfs",
       "stationListTitle": "",
       "type": "playlist",
       "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1707482782/vg2ac51qu0x03cirq8si.png",
@@ -154,30 +152,105 @@
         "_id": "65c61d4f0580cb91dd88ead9",
         "username": "DemoUserOne"
       },
-      "duration": "00:04:58",
+      "duration": "00:11:13",
       "songs": [
         {
-          "name": "Without Me",
-          "artist": "Eminem",
+          "name": "Cruel Summer",
+          "artist": "Taylor Swift",
           "type": "song",
-          "duration": "04:58",
-          "_id": "YVkUvmDQ3HY",
-          "imgUrl": "https://i.ytimg.com/vi/YVkUvmDQ3HY/mqdefault.jpg",
+          "duration": "03:00",
+          "_id": "JLJcHbYSlB8",
+          "imgUrl": "https://i.ytimg.com/vi/JLJcHbYSlB8/mqdefault.jpg",
           "addedBy": "artist",
           "addedAt": {
-            "$numberLong": "1707483106144"
-          },
-          "likedBy": [],
-          "tags": []
+            "$numberLong": "1705346774803"
+          }
+        },
+        {
+          "name": "Legends Never Die",
+          "artist": "THE DARK SIDE OF THE MOON",
+          "type": "song",
+          "duration": "04:32",
+          "_id": "sSSUfiD47_I",
+          "imgUrl": "https://i.ytimg.com/vi/sSSUfiD47_I/mqdefault.jpg",
+          "addedBy": "artist",
+          "addedAt": {
+            "$numberLong": "1705485614577"
+          }
+        },
+        {
+          "name": "Creepin",
+          "artist": "Metro Boomin, The Weeknd, 21 Savage",
+          "type": "song",
+          "duration": "03:41",
+          "_id": "-UcFeTfm1oM",
+          "imgUrl": "https://i.ytimg.com/vi/-UcFeTfm1oM/mqdefault.jpg",
+          "addedBy": "artist",
+          "addedAt": {
+            "$numberLong": "1705346790729"
+          }
         }
       ],
-      "description": "",
+      "description": "dsadsa",
       "_id": "65c61e8e0580cb91dd88eade"
+    },
+    {
+      "name": "Daily Mix 1",
+      "stationListTitle": "Daily Mix",
+      "type": "playlist",
+      "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705484403/fo8dmqrfuzsgtf5thn8l.jpg",
+      "createdBy": {
+        "_id": "65a79e580a6302dbc4ca8be0",
+        "username": "TubeFy"
+      },
+      "duration": "00:13:04",
+      "songs": [
+        {
+          "name": "Blank Space",
+          "artist": "Taylor Swift",
+          "type": "song",
+          "duration": "04:33",
+          "_id": "e-ORhEE9VVg",
+          "imgUrl": "https://i.ytimg.com/vi/e-ORhEE9VVg/mqdefault.jpg",
+          "addedBy": "artist",
+          "addedAt": {
+            "$numberLong": "1705787571243"
+          },
+          "likedByUsers": []
+        },
+        {
+          "name": "Nemesis",
+          "artist": "ARCH ENEMY",
+          "type": "song",
+          "duration": "04:28",
+          "_id": "n9AcG0glVu4",
+          "imgUrl": "https://i.ytimg.com/vi/n9AcG0glVu4/mqdefault.jpg",
+          "addedBy": "artist",
+          "addedAt": {
+            "$numberLong": "1705485646582"
+          }
+        },
+        {
+          "name": "Vortex",
+          "artist": "JINJER",
+          "type": "song",
+          "duration": "04:03",
+          "_id": "AiaOSGZTwtY",
+          "imgUrl": "https://i.ytimg.com/vi/AiaOSGZTwtY/mqdefault.jpg",
+          "addedBy": "artist",
+          "addedAt": {
+            "$numberLong": "1705485634782"
+          }
+        }
+      ],
+      "description": "AFI, The Offspring and more...",
+      "_id": "65b0e85e3859717e33a0245c"
     }
   ],
   "imgUrl": "",
   "favorites": [
-    "65c61e8e0580cb91dd88eade"
+    "65c61e8e0580cb91dd88eade",
+    "65b0e85e3859717e33a0245c"
   ],
   "friends": []
 },
