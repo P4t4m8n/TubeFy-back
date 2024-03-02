@@ -7525,3 +7525,27 @@
 2.3.2024, 19:26:34 - INFO - New connected socket [id: HuHL5qVgA_50EYc8AAAB]
 2.3.2024, 19:26:57 - INFO - Server is running on port: 3030
 2.3.2024, 19:26:57 - INFO - New connected socket [id: wWjN54blDxj86KFlAAAB]
+2.3.2024, 19:30:20 - INFO - Socket disconnected [id: undefined]
+2.3.2024, 19:30:29 - INFO - New connected socket [id: SPDUqKr8b0VtW67GAAAD]
+2.3.2024, 19:30:29 - INFO - Req was made | /
+2.3.2024, 19:30:29 - DEBUG - Getting stations | {}
+2.3.2024, 19:37:43 - INFO - Socket disconnected [id: undefined]
+2.3.2024, 19:42:41 - INFO - New connected socket [id: -W9Qv2kAn63qWpjqAAAF]
+2.3.2024, 19:42:41 - DEBUG - Getting stations | {}
+2.3.2024, 19:42:41 - INFO - Req was made | /
+2.3.2024, 19:42:45 - DEBUG - auth.service - login with username: DemoUserOne
+2.3.2024, 19:42:45 - INFO - User login:  | {"_id":"65c61d4f0580cb91dd88ead9","username":"DemoUserOne","email":"a@a","stations":[{"name":"Liked Songs","stationListTitle":"","type":"playlist","imgUrl":"http://res.cloudinary.com/dpnevk8db/image/upload/v1705451341/ebpe6nnlgajtmfyldt4a.png","createdBy":{"_id":"","username":""},"duration":"00:04:58","songs":[{"name":"Without Me","artist":"Eminem","type":"song","duration":"04:58","_id":"YVkUvmDQ3HY","imgUrl":"https://i.ytimg.com/vi/YVkUvmDQ3HY/mqdefault.jpg","addedBy":"artist","addedAt":1707483106144,"likedBy":[],"tags":[]}],"description":"","_id":"65c61d4f0580cb91dd88ead8"},{"name":"My station #0","stationListTitle":"","type":"playlist","imgUrl":"","createdBy":{"_id":"65c61d4f0580cb91dd88ead9","username":"DemoUserOne"},"duration":"00:04:40","songs":[{"name":"BZRP Music Sessions 53","artist":"SHAKIRA","type":"song","duration":"04:40","_id":"qSSg1EAImm4","imgUrl":"https://i.ytimg.com/vi/qSSg1EAImm4/mqdefault.jpg","addedBy":"artist","addedAt":1705346998977}],"description":"","_id":"65e1e4c8bd6d19dd11a62a78"},{"name":"My station #1","stationListTitle":"","type":"playlist","imgUrl":"","createdBy":{"_id":"65c61d4f0580cb91dd88ead9","username":"DemoUserOne"},"songs":[],"duration":"00:00","description":"","_id":"65e20902bd6d19dd11a62a79"}],"imgUrl":"","favorites":[],"friends":[]}
+2.3.2024, 19:42:45 - INFO - Setting socket.userId = 65c61d4f0580cb91dd88ead9 for socket [id: -W9Qv2kAn63qWpjqAAAF]
+2.3.2024, 19:42:46 - INFO - Req was made | /:stationId
+2.3.2024, 19:50:36 - INFO - Req was made | /
+2.3.2024, 19:50:36 - DEBUG - Getting stations | {}
+2.3.2024, 19:50:55 - INFO - Req was made | /:userId
+2.3.2024, 19:50:55 - INFO - Socket dislike playlist 65e1e4c8bd6d19dd11a62a78 [id: -W9Qv2kAn63qWpjqAAAF]
+2.3.2024, 19:50:56 - INFO - Req was made | /:userId
+2.3.2024, 19:50:56 - INFO - Socket dislike playlist 65e20902bd6d19dd11a62a79 [id: -W9Qv2kAn63qWpjqAAAF]
+2.3.2024, 19:50:57 - INFO - Server is running on port: 3030
+2.3.2024, 19:50:57 - INFO - New connected socket [id: ffOyf8Udz5TtkxdsAAAB]
+2.3.2024, 19:50:59 - INFO - Req was made | /:stationId
+2.3.2024, 19:50:59 - INFO - Req was made | /:stationId
+2.3.2024, 19:51:19 - DEBUG - Getting stations | {}
+2.3.2024, 19:51:19 - INFO - Req was made | /
