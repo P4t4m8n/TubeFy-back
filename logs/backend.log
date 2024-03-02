@@ -7507,3 +7507,21 @@
 2.3.2024, 18:36:12 - DEBUG - Getting stations | {}
 2.3.2024, 19:18:52 - INFO - Server is running on port: 3030
 2.3.2024, 19:18:53 - INFO - New connected socket [id: cYJehxGu2WEgOXQJAAAB]
+2.3.2024, 19:19:36 - INFO - Socket disconnected [id: undefined]
+2.3.2024, 19:19:36 - INFO - New connected socket [id: JKxsGbquy1PL_jjsAAAD]
+2.3.2024, 19:19:36 - DEBUG - Getting stations | {}
+2.3.2024, 19:19:36 - INFO - Req was made | /
+2.3.2024, 19:22:59 - INFO - Server is running on port: 3030
+2.3.2024, 19:23:00 - INFO - New connected socket [id: 3AUBF-Zo8T6sjUfwAAAB]
+2.3.2024, 19:23:07 - INFO - Socket disconnected [id: undefined]
+2.3.2024, 19:23:08 - INFO - New connected socket [id: PZqGVB5OkUUAeoqVAAAD]
+2.3.2024, 19:23:08 - INFO - Req was made | /
+2.3.2024, 19:23:08 - DEBUG - Getting stations | {}
+2.3.2024, 19:25:59 - INFO - Socket disconnected [id: undefined]
+2.3.2024, 19:25:59 - INFO - New connected socket [id: qknwC6cV8GNe3QfZAAAF]
+2.3.2024, 19:26:00 - INFO - Req was made | /
+2.3.2024, 19:26:00 - DEBUG - Getting stations | {}
+2.3.2024, 19:26:33 - INFO - Server is running on port: 3030
+2.3.2024, 19:26:34 - INFO - New connected socket [id: HuHL5qVgA_50EYc8AAAB]
+2.3.2024, 19:26:57 - INFO - Server is running on port: 3030
+2.3.2024, 19:26:57 - INFO - New connected socket [id: wWjN54blDxj86KFlAAAB]
