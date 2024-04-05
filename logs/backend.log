@@ -7549,3 +7549,7 @@
 2.3.2024, 19:50:59 - INFO - Req was made | /:stationId
 2.3.2024, 19:51:19 - DEBUG - Getting stations | {}
 2.3.2024, 19:51:19 - INFO - Req was made | /
+5.4.2024, 12:08:48 - INFO - Server is running on port: 3030
+5.4.2024, 12:09:05 - INFO - New connected socket [id: lnawZ9HyGejxsQCEAAAB]
+5.4.2024, 12:09:05 - INFO - Req was made | /
+5.4.2024, 12:09:05 - DEBUG - Getting stations | {}
